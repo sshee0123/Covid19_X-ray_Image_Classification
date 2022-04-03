@@ -1,4 +1,5 @@
-# Covid19_X-ray_Image_Classification
+# [ 빅데이터 프로그래밍 ] COVID-19 감지를 위한 흉부 X-ray 이미지 분류
+Covid19_X-ray_Image_Classification   
 
 ## 프로젝트 주제
 COVID-19 감지를 위한 흉부 X-ray 이미지 분류
